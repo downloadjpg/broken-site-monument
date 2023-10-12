@@ -16,7 +16,7 @@ timezone: America/New_York
 
 title: Brody Foster # the main title
 
-tagline: Computer Science student at University of Florida # it will display as the sub-title
+tagline: Computer Science and Math student at University of Florida # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -71,7 +71,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets\avatar\igpf.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
