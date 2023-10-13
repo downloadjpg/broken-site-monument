@@ -16,7 +16,7 @@ timezone: America/New_York
 
 title: Brody Foster # the main title
 
-tagline: Computer Science and Math student at University of Florida # it will display as the sub-title
+tagline: Computer Science and Math student at the University of Florida # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
