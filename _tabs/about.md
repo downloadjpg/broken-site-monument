@@ -9,17 +9,17 @@ Hello! I'm Brodric (Brody), a passionate CS student with a deep love for creatin
 * **DevLUp UF:** As of Fall 2023, I proudly hold the position of Vice President in the UF Chapter of [DevLUp](https://devlup.org/), a network of game development student organizations across Florida. Within this dynamic community, we organize and participate in game jams, conduct workshops, and host social events. Our collective goal is to foster a vibrant community of artists, programmers, and designers who share a deep passion for the world of entertainment media.
 
 ## Skills
-\*insert some cool pictures of git here\*
-
-## My Approach
-
-I'm a firm believer in the power of collaboration and open communication. I enjoy working closely with designers, product managers, and fellow developers to transform ideas into practical, elegant, and functional solutions. My approach to software development is based on these core principles:
-
-- **User-Centric Design:** I prioritize creating applications that provide an exceptional user experience, focusing on user needs and feedback.
-
-- **Clean and Maintainable Code:** I take pride in writing code that is well-structured, documented, and easy to maintain.
-
-- **Continuous Learning:** I'm committed to staying updated with the latest technologies and best practices in the industry.
+- Applications:
+    - Git
+    - Godot
+- Languages:
+    - C#
+    - C++
+    - Python
+- Concepts:
+    - Linear Algebra
+    - Data Structures and Algorithms
+    - Agile software development
 
 ## Let's Connect
 
