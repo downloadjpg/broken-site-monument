@@ -190,3 +190,6 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+  jekyll_compose:
+    auto_open: true
