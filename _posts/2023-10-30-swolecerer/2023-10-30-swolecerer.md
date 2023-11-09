@@ -2,7 +2,7 @@
 layout: post
 title: Swolecerer
 date: 2023-10-30 20:43 -0400
-image: assets\img\swolecerer\image.png
+image: \assets\img\swolecerer\image.png
 ---
 
 # Introduction
