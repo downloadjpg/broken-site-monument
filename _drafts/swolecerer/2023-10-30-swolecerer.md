@@ -2,7 +2,7 @@
 layout: post
 title: Swolecerer
 date: 2023-10-30 20:43 -0400
-image: assets\img\swolecerer\image.png
+image:  /assets/img/swolecerer/cover.png
 ---
 
 # Introduction
@@ -26,7 +26,7 @@ The most intriguing part of this to me was figuring out ragdoll physics. The [Go
 > **Conclusion:** I can not scope.
 
 Implementing the ragdoll mechanics would prove to take the majority of my time. While this means that our end product was nowhere close to playable by the time the deadline rolled around, I'm wanting to extend development. I learned plenty, and throwing yourself around is already kind of fun.
-![Alt text](image.png)
+![Alt text](/assets/img/swolecerer/img1.png)
 Look at how he flies!
 
 
